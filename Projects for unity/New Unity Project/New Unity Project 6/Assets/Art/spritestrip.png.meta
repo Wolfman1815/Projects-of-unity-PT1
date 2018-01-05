@@ -1,0 +1,210 @@
+fileFormatVersion: 2
+guid: 86e7a593df9c84c4f9a2847df8eeccff
+timeCreated: 1474994499
+licenseType: Pro
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: spritestrip_0
+    21300002: spritestrip_1
+    21300004: spritestrip_2
+    21300006: spritestrip_3
+    21300008: spritestrip_4
+    21300010: spritestrip_5
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: spritestrip_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 25, y: -75}
+        - {x: 18, y: -80}
+        - {x: 18, y: -82}
+        - {x: 18, y: -79}
+        - {x: 19, y: -78}
+        - {x: 19, y: -71}
+        - {x: 82, y: -71}
+        - {x: 102, y: -53}
+        - {x: 107, y: -23}
+        - {x: 107, y: 51}
+        - {x: 85, y: 92}
+        - {x: -32, y: 92}
+        - {x: -97, y: -15}
+        - {x: -97, y: -128}
+        - {x: 50, y: -128}
+        - {x: 56, y: -120}
+        - {x: 54, y: -71}
+        - {x: 29, y: -72}
+    - name: spritestrip_1
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 0
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 73, y: -4}
+        - {x: 74, y: -8}
+        - {x: 107, y: 2}
+        - {x: 111, y: 18}
+        - {x: 111, y: 68}
+        - {x: 94, y: 86}
+        - {x: 16, y: 86}
+        - {x: -38, y: 78}
+        - {x: -62, y: 16}
+        - {x: -41, y: -7}
+        - {x: -34, y: -9}
+        - {x: -19, y: -10}
+        - {x: -12, y: -10}
+        - {x: -39, y: -10}
+        - {x: -63, y: -2}
+        - {x: -79, y: -31}
+        - {x: -79, y: -84}
+        - {x: -49, y: -128}
+        - {x: 37, y: -128}
+        - {x: 90, y: -37}
+        - {x: 73, y: -11}
+        - {x: 72, y: 7}
+    - name: spritestrip_2
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 0
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 68, y: -51}
+        - {x: 56, y: -52}
+        - {x: 53, y: -53}
+        - {x: 87, y: -28}
+        - {x: 105, y: 16}
+        - {x: 105, y: 84}
+        - {x: -79, y: 84}
+        - {x: -89, y: 52}
+        - {x: -89, y: -128}
+        - {x: 5, y: -128}
+        - {x: 45, y: -119}
+        - {x: 63, y: -113}
+        - {x: 86, y: -81}
+        - {x: 81, y: -57}
+    - name: spritestrip_3
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 0
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 88, y: 75}
+        - {x: 56, y: 88}
+        - {x: -30, y: 88}
+        - {x: -103, y: -15}
+        - {x: -103, y: -120}
+        - {x: -20, y: -128}
+        - {x: 54, y: -128}
+        - {x: 68, y: -115}
+        - {x: 92, y: -83}
+        - {x: 92, y: 45}
+    - name: spritestrip_4
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 0
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -37, y: 78}
+        - {x: -55, y: 50}
+        - {x: -55, y: -105}
+        - {x: -44, y: -128}
+        - {x: 57, y: -128}
+        - {x: 94, y: -24}
+        - {x: 94, y: 54}
+        - {x: 86, y: 78}
+    - name: spritestrip_5
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 0
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 67, y: 83}
+        - {x: -13, y: 83}
+        - {x: -31, y: 80}
+        - {x: -76, y: 21}
+        - {x: -76, y: -126}
+        - {x: -74, y: -128}
+        - {x: 52, y: -128}
+        - {x: 93, y: -77}
+        - {x: 93, y: 67}
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
